@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">العديل والزين</string>
+    <string name="title_activity_main">العديل والزين</string>
+    <string name="package_name">com.istanakadostore.app</string>
+    <string name="custom_url_scheme">com.istanakadostore.app</string>
+</resources>
